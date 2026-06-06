@@ -1,4 +1,4 @@
-# Hi 👋, I'm Salman Ameer
+# Hi, I'm Salman Ameer
 
 ### Certified MERN Stack Developer
 
