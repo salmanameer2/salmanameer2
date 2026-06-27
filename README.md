@@ -1,4 +1,4 @@
-# Hi 👋, I'm Salman Ameer
+# Hi , I'm Salman Ameer
 
 ### Certified MERN Stack Developer
 
@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanameer2" alt="salmanameer2" /></a> </p>
 
-- 🔭 I'm currently working on **MERN Stack Projects.**
+-  I'm currently working on **MERN Stack Projects.**
 
-- 🌱 I'm currently learning **Web Developement With AI**
+-  I'm currently learning **Web Developement With AI**
 
-- 📫 How to reach me **salman.leo2@gmail.com**
+-  How to reach me **salman.leo2@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://meandmy-portfolio.netlify.app](https://meandmy-portfolio.netlify.app)**
+- All of my projects are available at **[https://meandmy-portfolio.netlify.app](https://meandmy-portfolio.netlify.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
